@@ -1,0 +1,9 @@
+{
+	"name": "laptopadf-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "30f91eab-ba24-4890-a4e0-b2c7477dde3c",
+		"tenantId": "83cc7c96-03f5-4ed4-a8f3-b778f4722f96"
+	}
+}
