@@ -1,0 +1,9 @@
+{
+	"name": "laptopadf-testing",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0f39a53-0b25-4ac9-abcb-6142019ea5e1",
+		"tenantId": "83cc7c96-03f5-4ed4-a8f3-b778f4722f96"
+	}
+}
